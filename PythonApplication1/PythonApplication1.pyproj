@@ -41,7 +41,9 @@
     <Compile Include="Section03\5.py" />
     <Compile Include="Section03\6.py" />
     <Compile Include="Section03\7.py" />
+    <Compile Include="Section03\7_my.py" />
     <Compile Include="Section03\8.py" />
+    <Compile Include="Section03\9.py" />
     <Compile Include="Section03\minimum.py" />
     <Compile Include="test.py" />
   </ItemGroup>
