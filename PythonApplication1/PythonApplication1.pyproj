@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>PythonApplication1</Name>
     <RootNamespace>PythonApplication1</RootNamespace>
+    <SuppressConfigureTestFrameworkPrompt>true</SuppressConfigureTestFrameworkPrompt>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -39,6 +40,8 @@
     <Compile Include="Section03\4.py" />
     <Compile Include="Section03\5.py" />
     <Compile Include="Section03\6.py" />
+    <Compile Include="Section03\7.py" />
+    <Compile Include="Section03\8.py" />
     <Compile Include="Section03\minimum.py" />
     <Compile Include="test.py" />
   </ItemGroup>

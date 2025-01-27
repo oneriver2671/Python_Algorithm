@@ -1,8 +1,15 @@
 '''
-소수의 개수 (에라토스테네스 체)
+주사위 게임
 '''
 
 import sys
 sys.stdin=open("input.txt", "rt")
 
-    
+n = int(input())
+arr = list(map(int, input().split()))
+
+
+
+
+
+
